@@ -20,10 +20,11 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://IvyW-XBO.github.io/',
+  url: 'https://IvyW-XBO.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/testers.ai-cli-docs/',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
